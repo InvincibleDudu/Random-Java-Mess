@@ -18,7 +18,7 @@ import java.util.Scanner;
  */
 public class HttpCliReq {
     public static final String url = "https://api.ip138.com/ipv4/";
-    public static final String token = "0108223bd1a8dfb1fbb973a08c2252a3";
+    public static final String token = "*";
     public static void main(String[] args) throws KeyStoreException, NoSuchAlgorithmException, KeyManagementException, IOException, JSONException {
         var id = "9a593592-887d-4615-a438-c1e632f3a677";
 //        var id = "1450a7dd-b6f9-4cec-b336-d030930f15b1";
