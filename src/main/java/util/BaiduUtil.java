@@ -12,7 +12,7 @@ import java.util.HashMap;
 
 public class BaiduUtil {
 
-    static AipNlp client = new AipNlp("23586583", "AGRa6EYmIWvehfHhGcHG9F4W", "uF2CVLxkqyWeke48GcIs11eR2bGGQ8aZ");
+    static AipNlp client = new AipNlp("23586583", "AGRa6EYmIWvehfHhGcHG9F4W", "*");
 
 
     public static void main(String[] args) throws JSONException {
